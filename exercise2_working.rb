@@ -3,6 +3,8 @@ require 'terminal-table'
 require './progressbar.rb'
 require 'paint'
 
+# thi is a test
+
 # Set up Date Variables
 
 abbrDaynames = Date::ABBR_DAYNAMES
@@ -67,7 +69,7 @@ end
 
 puts NEWLINE
 
-# Set up a variable that 
+# Set up a variable that
 days = Day.all
 
 
